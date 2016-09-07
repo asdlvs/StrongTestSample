@@ -1,0 +1,8 @@
+C:\D\Crossover\projs\TestProjects\Sample\Sample.MSTest.Tests\obj\Debug\Sample.MSTest.Tests.csprojResolveAssemblyReference.cache
+C:\D\Crossover\projs\TestProjects\Sample\Sample.MSTest.Tests\bin\Debug\Sample.MSTest.Tests.dll
+C:\D\Crossover\projs\TestProjects\Sample\Sample.MSTest.Tests\bin\Debug\Sample.MSTest.Tests.pdb
+C:\D\Crossover\projs\TestProjects\Sample\Sample.MSTest.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\D\Crossover\projs\TestProjects\Sample\Sample.MSTest.Tests\bin\Debug\Sample.Core.dll
+C:\D\Crossover\projs\TestProjects\Sample\Sample.MSTest.Tests\bin\Debug\Sample.Core.pdb
+C:\D\Crossover\projs\TestProjects\Sample\Sample.MSTest.Tests\obj\Debug\Sample.MSTest.Tests.dll
+C:\D\Crossover\projs\TestProjects\Sample\Sample.MSTest.Tests\obj\Debug\Sample.MSTest.Tests.pdb

@@ -1,0 +1,4 @@
+C:\D\Crossover\projs\TestProjects\Sample\Sample.Core\bin\Debug\Sample.Core.dll
+C:\D\Crossover\projs\TestProjects\Sample\Sample.Core\bin\Debug\Sample.Core.pdb
+C:\D\Crossover\projs\TestProjects\Sample\Sample.Core\obj\Debug\Sample.Core.dll
+C:\D\Crossover\projs\TestProjects\Sample\Sample.Core\obj\Debug\Sample.Core.pdb
