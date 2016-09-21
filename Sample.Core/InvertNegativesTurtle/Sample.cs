@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Sample.Core.InvertNegativesTurtle
 {
@@ -6,12 +6,12 @@ namespace Sample.Core.InvertNegativesTurtle
     {
         public int GetHardcodedNegative()
         {
-            return -42;
+          return -42;
         }
 
         public int GetNegativeParameter(int number)
-        {
-            return -number;
+        { 
+           return -number;
         }
 
         public int GetNegativeByCondition(bool value)
@@ -21,7 +21,7 @@ namespace Sample.Core.InvertNegativesTurtle
                 return -2;
             }
 
-            return -3;
+           return -3;
         }
 
         public int GetRandomNegative()
@@ -30,7 +30,8 @@ namespace Sample.Core.InvertNegativesTurtle
             var value = random.Next(1, int.MaxValue);
             var negativeValue = value * (-1);
 
-            return negativeValue;
+           return negativeValue;
         }
     }
 }
+

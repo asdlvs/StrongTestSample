@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Complex\ComplexSampleTests.cs" />
     <Compile Include="InvertNegativesTurtle\SampleTests.cs" />
     <Compile Include="MathTurtle\SampleForDoubleTests.cs" />
     <Compile Include="MathTurtle\SampleForIntegerTests.cs" />
@@ -53,6 +54,7 @@
     <Compile Include="ReturnValueTurtle\FloatValueSampleTests.cs" />
     <Compile Include="ReturnValueTurtle\IntegerValueSampleTests.cs" />
     <Compile Include="ReturnValueTurtle\ObjectValueSampleTests.cs" />
+    <Compile Include="Uncovered\SampleTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

@@ -1,0 +1,9 @@
+C:\D\Crossover\projs\TestProjects\Sample\Sample.NUnitUncovered.Tests\bin\Debug\Sample.NUnitUncovered.Tests.dll
+C:\D\Crossover\projs\TestProjects\Sample\Sample.NUnitUncovered.Tests\bin\Debug\Sample.NUnitUncovered.Tests.pdb
+C:\D\Crossover\projs\TestProjects\Sample\Sample.NUnitUncovered.Tests\bin\Debug\nunit.framework.dll
+C:\D\Crossover\projs\TestProjects\Sample\Sample.NUnitUncovered.Tests\bin\Debug\Sample.Core.dll
+C:\D\Crossover\projs\TestProjects\Sample\Sample.NUnitUncovered.Tests\bin\Debug\Sample.Core.pdb
+C:\D\Crossover\projs\TestProjects\Sample\Sample.NUnitUncovered.Tests\bin\Debug\nunit.framework.xml
+C:\D\Crossover\projs\TestProjects\Sample\Sample.NUnitUncovered.Tests\obj\Debug\Sample.NUnitUncovered.Tests.csprojResolveAssemblyReference.cache
+C:\D\Crossover\projs\TestProjects\Sample\Sample.NUnitUncovered.Tests\obj\Debug\Sample.NUnitUncovered.Tests.dll
+C:\D\Crossover\projs\TestProjects\Sample\Sample.NUnitUncovered.Tests\obj\Debug\Sample.NUnitUncovered.Tests.pdb

@@ -1,11 +1,11 @@
-﻿namespace Sample.Core.MathTurtle
+namespace Sample.Core.MathTurtle
 {
     public class SampleForDouble
     {
         public double Summ(double a, double b)
         {
             var result = a + b;
-            return result;
+           return result;
         }
 
         public double Sub(double a, double b)
@@ -35,7 +35,7 @@
         public double PostIncrement(double a)
         {
             var result = a++;
-            return result;
+           return result;
         }
 
         public double PreIncrement(double a)
@@ -47,7 +47,7 @@
         public double PostDecrement(double a)
         {
             var result = a--;
-            return result;
+           return result;
         }
 
         public double PreDecrement(double a)
@@ -57,3 +57,4 @@
         }
     }
 }
+

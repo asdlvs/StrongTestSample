@@ -15,7 +15,7 @@ namespace Sample.NUnit.Tests.ReturnValueTurtle
             var result = logic.ReturnIntBasedOnConditions(1);
 
             //assert
-            Assert.IsTrue(result > 0);
+            Assert.IsTrue(result >= 0);
         }
 
         [Test]

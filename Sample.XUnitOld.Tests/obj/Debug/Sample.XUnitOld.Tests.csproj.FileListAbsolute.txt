@@ -1,9 +1,9 @@
-C:\D\Crossover\projs\TestProjects\Sample\Sample.XUnitOld.Tests\obj\Debug\Sample.XUnitOld.Tests.csprojResolveAssemblyReference.cache
 C:\D\Crossover\projs\TestProjects\Sample\Sample.XUnitOld.Tests\bin\Debug\Sample.XUnitOld.Tests.dll
 C:\D\Crossover\projs\TestProjects\Sample\Sample.XUnitOld.Tests\bin\Debug\Sample.XUnitOld.Tests.pdb
 C:\D\Crossover\projs\TestProjects\Sample\Sample.XUnitOld.Tests\bin\Debug\Sample.Core.dll
 C:\D\Crossover\projs\TestProjects\Sample\Sample.XUnitOld.Tests\bin\Debug\xunit.dll
 C:\D\Crossover\projs\TestProjects\Sample\Sample.XUnitOld.Tests\bin\Debug\Sample.Core.pdb
 C:\D\Crossover\projs\TestProjects\Sample\Sample.XUnitOld.Tests\bin\Debug\xunit.xml
+C:\D\Crossover\projs\TestProjects\Sample\Sample.XUnitOld.Tests\obj\Debug\Sample.XUnitOld.Tests.csprojResolveAssemblyReference.cache
 C:\D\Crossover\projs\TestProjects\Sample\Sample.XUnitOld.Tests\obj\Debug\Sample.XUnitOld.Tests.dll
 C:\D\Crossover\projs\TestProjects\Sample\Sample.XUnitOld.Tests\obj\Debug\Sample.XUnitOld.Tests.pdb

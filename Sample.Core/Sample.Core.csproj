@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Complex\ComplexSample.cs" />
     <Compile Include="InvertNegativesTurtle\Sample.cs" />
     <Compile Include="MathTurtle\SampleForDouble.cs" />
     <Compile Include="MathTurtle\SampleForInteger.cs" />
@@ -49,6 +50,7 @@
     <Compile Include="ReturnValueTurtle\FloatValueSample.cs" />
     <Compile Include="ReturnValueTurtle\IntegerValueSample.cs" />
     <Compile Include="ReturnValueTurtle\ObjectValueSample.cs" />
+    <Compile Include="Uncovered\Sample.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

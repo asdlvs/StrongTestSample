@@ -17,7 +17,7 @@ namespace Sample.NUnit.Tests.InvertNegativesTurtle
             Assert.AreNotEqual(result, 0);
         }
 
-        [Test]
+       [Test]
         public void GetHardcodedNegative_method_should_not_return_minus_200()
         {
             //arrange

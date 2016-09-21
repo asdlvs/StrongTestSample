@@ -28,7 +28,7 @@ namespace Sample.NUnit.Tests.ReturnValueTurtle
             var result = logic.ReturnFloatAfterCalculation();
 
             //assert
-            Assert.IsTrue(result > 0);
+            Assert.IsTrue(result >= 0);
         }
 
         [Test]
@@ -41,7 +41,7 @@ namespace Sample.NUnit.Tests.ReturnValueTurtle
             var result = logic.ReturnOne();
 
             //assert
-            Assert.IsTrue(result > 0);
+            Assert.IsTrue(result >= 0);
         }
     }
 }

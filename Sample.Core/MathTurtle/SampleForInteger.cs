@@ -1,11 +1,11 @@
-﻿namespace Sample.Core.MathTurtle
+namespace Sample.Core.MathTurtle
 {
     public class SampleForInteger
     {
         public int Summ(int a, int b)
         {
             var result = a + b;
-            return result;
+           return result;
         }
 
         public int Sub(int a, int b)
@@ -39,3 +39,4 @@
         }
     }
 }
+

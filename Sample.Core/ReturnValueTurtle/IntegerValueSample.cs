@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace Sample.Core.ReturnValueTurtle
@@ -30,7 +30,8 @@ namespace Sample.Core.ReturnValueTurtle
 
         public IEnumerable<int> GetOddWithMultiplication()
         {
-            return _integers.Where(i => i % 2 != 0).Select(i => i - 1);
+           return _integers.Where(i => i % 2 != 0).Select(i => i - 1);
         }
     }
 }
+

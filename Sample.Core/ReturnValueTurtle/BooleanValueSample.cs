@@ -1,4 +1,4 @@
-﻿namespace Sample.Core.ReturnValueTurtle
+namespace Sample.Core.ReturnValueTurtle
 {
     public class BooleanValueSample
     {
@@ -25,7 +25,8 @@
         public bool Invert(bool value)
         {
             var result = value;
-            return !result;
+             return !result;
         }
     }
 }
+

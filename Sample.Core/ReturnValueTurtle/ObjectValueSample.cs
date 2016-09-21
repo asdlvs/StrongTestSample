@@ -1,4 +1,4 @@
-﻿namespace Sample.Core.ReturnValueTurtle
+namespace Sample.Core.ReturnValueTurtle
 {
     public class ObjectValueSample
     {
@@ -10,7 +10,7 @@
 
         public object GetNewObject2()
         {
-            return new object();
+             return new object();
         }
 
         public object GetExistedObject(object o)
@@ -19,3 +19,4 @@
         }
     }
 }
+

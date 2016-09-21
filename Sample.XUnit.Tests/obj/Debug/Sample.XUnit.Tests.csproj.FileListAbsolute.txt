@@ -1,4 +1,3 @@
-C:\D\Crossover\projs\TestProjects\Sample\Sample.XUnit.Tests\obj\Debug\Sample.XUnit.Tests.csprojResolveAssemblyReference.cache
 C:\D\Crossover\projs\TestProjects\Sample\Sample.XUnit.Tests\bin\Debug\Sample.XUnit.Tests.dll
 C:\D\Crossover\projs\TestProjects\Sample\Sample.XUnit.Tests\bin\Debug\Sample.XUnit.Tests.pdb
 C:\D\Crossover\projs\TestProjects\Sample\Sample.XUnit.Tests\bin\Debug\Sample.Core.dll
@@ -14,5 +13,6 @@ C:\D\Crossover\projs\TestProjects\Sample\Sample.XUnit.Tests\bin\Debug\xunit.core
 C:\D\Crossover\projs\TestProjects\Sample\Sample.XUnit.Tests\bin\Debug\xunit.core.xml
 C:\D\Crossover\projs\TestProjects\Sample\Sample.XUnit.Tests\bin\Debug\xunit.execution.desktop.pdb
 C:\D\Crossover\projs\TestProjects\Sample\Sample.XUnit.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\D\Crossover\projs\TestProjects\Sample\Sample.XUnit.Tests\obj\Debug\Sample.XUnit.Tests.csprojResolveAssemblyReference.cache
 C:\D\Crossover\projs\TestProjects\Sample\Sample.XUnit.Tests\obj\Debug\Sample.XUnit.Tests.dll
 C:\D\Crossover\projs\TestProjects\Sample\Sample.XUnit.Tests\obj\Debug\Sample.XUnit.Tests.pdb
