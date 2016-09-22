@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.NUnitOld.Tests", "Sa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.NUnitUncovered.Tests", "Sample.NUnitUncovered.Tests\Sample.NUnitUncovered.Tests.csproj", "{F77482EA-B860-419E-B858-1CBD28D64BBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.XUnitWithTestDeterminition", "Sample.XUnitWithTestDeterminition\Sample.XUnitWithTestDeterminition.csproj", "{39A814CC-BA28-4E66-8F74-BF7CEC434C9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F77482EA-B860-419E-B858-1CBD28D64BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F77482EA-B860-419E-B858-1CBD28D64BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F77482EA-B860-419E-B858-1CBD28D64BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39A814CC-BA28-4E66-8F74-BF7CEC434C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A814CC-BA28-4E66-8F74-BF7CEC434C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A814CC-BA28-4E66-8F74-BF7CEC434C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A814CC-BA28-4E66-8F74-BF7CEC434C9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
